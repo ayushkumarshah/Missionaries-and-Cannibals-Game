@@ -182,8 +182,7 @@ def main():
             if action != [1, 1] and action != [0, 2] and action != [2, 0]:
                 for i in range(6):
                     # click and point actions of missionary or cannibal at ground
-                    if mc[i].rect_x+person.width > cur[0] > mc[i].rect_x and mc[i].rect_y+person.height > cur[1] >mc[i].rect_y  :  # pos over missionary 1 left
-                        print("hrllo",mc[i].pos,mc[i].leftright,boat_position)
+                    if mc[i].rect_x+person.width > cur[0] > mc[i].rect_x and mc[i].rect_y+person.height > cur[1] >mc[i].rect_y  :  
                         if mc[i].pos==0 and mc[i].leftright=='left' and boat_position==0:
                             mc[i].highlight()
                             if pygame.mouse.get_pressed() == (1, 0, 0):

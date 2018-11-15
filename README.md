@@ -5,13 +5,13 @@ A game called Missionaries and Cannibals where you need to cross 3 missionaries 
 Pygame
 
 ## Screenshots
-New Game
+### New Game
 ![newgame](https://user-images.githubusercontent.com/25257703/48526633-84850b80-e8b0-11e8-8754-3f3e337e9e7c.PNG)
 
-Game over
+### Game over
 ![gameover](https://user-images.githubusercontent.com/25257703/48526630-83ec7500-e8b0-11e8-8802-4cb793e32e8d.PNG)
 
-Game won
+### Game won
 ![gamewon](https://user-images.githubusercontent.com/25257703/48526632-83ec7500-e8b0-11e8-9501-4ad9570504ae.PNG)
 
 ## How to play?

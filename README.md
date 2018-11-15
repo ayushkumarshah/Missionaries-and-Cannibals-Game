@@ -6,13 +6,13 @@ Pygame
 
 ## Screenshots
 New Game
-![alt text](https://github.com/ayushkumarshah/Missionaries-and-Cannibals-Game/blob/master/screenshots/newgame.png)
+![newgame](https://user-images.githubusercontent.com/25257703/48526633-84850b80-e8b0-11e8-8754-3f3e337e9e7c.PNG)
 
 Game over
-![alt text](https://github.com/ayushkumarshah/Missionaries-and-Cannibals-Game/blob/master/screenshots/gameover.png)
+![gameover](https://user-images.githubusercontent.com/25257703/48526630-83ec7500-e8b0-11e8-8802-4cb793e32e8d.PNG)
 
 Game won
-![alt text](https://github.com/ayushkumarshah/Missionaries-and-Cannibals-Game/blob/master/screenshots/gamewon.png)
+![gamewon](https://user-images.githubusercontent.com/25257703/48526632-83ec7500-e8b0-11e8-9501-4ad9570504ae.PNG)
 
 ## How to play?
 Just install pygame and run main.py to play the game
